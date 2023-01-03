@@ -15,7 +15,7 @@ import com.eamm.atl.entities.Product;
 import com.eamm.atl.repositories.ProductRepository;
 
 @RestController
-@RequestMapping("/api/product")
+@RequestMapping("/api_1/product")
 public class ProductController {
 
 	@Autowired

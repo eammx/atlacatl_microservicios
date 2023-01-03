@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import lombok.Data;
 
 @RestController
-@RequestMapping("api/categories")
+@RequestMapping("api_1/categories")
 @Data
 @RefreshScope
 public class CategoryController {
